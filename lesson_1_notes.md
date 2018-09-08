@@ -7,6 +7,7 @@
 | `git checkout ID`      | with an oldID you can switch to an old version<br />with the newID you can switch back to the most recent version |
 | `git init`             | create /.git and make a repository from the actual directory and the subdirectories |
 | `git status`           | show which files have changed since the last commit          |
+| `git reset`            | remove file from staging area                                |
 
 
 # Keyboard Commands
