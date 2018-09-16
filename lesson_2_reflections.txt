@@ -5,29 +5,41 @@ What happens when you initialize a repository? Why do you need to do it?
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
-*The staging area is an area where you collect the files for the next commit. Maybe it's usefull when you collect all the changes over time and start your commit when you think that you have enough changes for a commit.*
+```
+The staging area is an area where you collect the files for the next commit. Maybe it's usefull when you collect all the changes over time and start your commit when you think that you have enough changes for a commit.
+```
 
 How can you use the staging area to make sure you have one commit per logical
 change?
 
-*By only putting the files into the stagin area that match to the logical change for the next commit.*
+```
+By only putting the files into the stagin area that match to the logical change for the next commit.
+```
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
-*When you work on different ideas for your code and simultaneously you have to keep your working version, branches could be helpful.*
+```
+When you work on different ideas for your code and simultaneously you have to keep your working version, branches could be helpful.
+```
 
 How do the diagrams help you visualize the branch structure?
 
-*You can see easily the starting point of a new branch and also the commit where two branches come together.*
+```
+You can see easily the starting point of a new branch and also the commit where two branches come together.
+```
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
-*The changes in both branches are put together in one single branch. Like in the diagram it's the combination of both.*
+```
+The changes in both branches are put together in one single branch. Like in the diagram it's the combination of both.
+```
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
 
-*Automatic branching saves time and you don't have to understand what somebody has done in the other branch. In the opposite automatic branching can't identify the meaning of the changes so maybe sometimes it can lead to errors and ugly code.*
+```
+Automatic branching saves time and you don't have to understand what somebody has done in the other branch. In the opposite automatic branching can't identify the meaning of the changes so maybe sometimes it can lead to errors and ugly code.
+```
 
